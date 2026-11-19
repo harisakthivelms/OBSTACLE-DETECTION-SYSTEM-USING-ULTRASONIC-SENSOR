@@ -44,7 +44,7 @@ Stop Simulation: Click the “Stop Simulation” button to end the test.
 
 Save Circuit: Click “Save” to store your design and code for future use or presentation.
 
-## Code:
+# Code:
 #define echoPin 2
 #define trigPin 3
 long duration;
